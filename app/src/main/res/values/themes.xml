@@ -1,0 +1,4 @@
+<resources>
+    <!-- Tema base XML (ventana); el tema visual real vive en Compose -->
+    <style name="Theme.DisenaMadera" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
