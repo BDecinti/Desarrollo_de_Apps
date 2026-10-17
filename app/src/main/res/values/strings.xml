@@ -1,3 +1,40 @@
 <resources>
     <string name="app_name">Diseña Madera Móvil</string>
+
+    <!-- Navegación -->
+    <string name="nav_explorar">Explorar</string>
+    <string name="nav_favoritos">Favoritos</string>
+    <string name="nav_historial">Historial</string>
+    <string name="nav_consulta">Consulta</string>
+    <string name="menu_acerca">Acerca de</string>
+    <string name="titulo_resultados">Resultados</string>
+    <string name="titulo_detalle">Detalle de solución</string>
+    <string name="volver">Volver</string>
+    <string name="mas_opciones">Más opciones</string>
+
+    <!-- Bienvenida -->
+    <string name="splash_subtitulo">Soluciones constructivas en madera</string>
+    <string name="splash_cargando">Preparando el catálogo…</string>
+    <string name="splash_error">No se pudo cargar el catálogo</string>
+    <string name="reintentar">Reintentar</string>
+
+    <!-- Explorar -->
+    <string name="explorar_buscar_hint">Buscar soluciones (ej.: muro)</string>
+    <string name="explorar_buscar">Buscar</string>
+    <string name="explorar_limpiar_busqueda">Limpiar búsqueda</string>
+    <string name="explorar_categorias">Categorías</string>
+    <string name="explorar_destacadas">Destacadas</string>
+    <string name="explorar_todas">Todas las soluciones</string>
+
+    <!-- Estados -->
+    <string name="estado_vacio_titulo">No hay soluciones para mostrar</string>
+    <string name="estado_vacio_mensaje">Vuelve a intentarlo más tarde.</string>
+    <string name="estado_error_titulo">Algo salió mal</string>
+    <string name="estado_error_mensaje">No pudimos cargar las soluciones.</string>
+
+    <!-- Pantallas pendientes -->
+    <string name="en_construccion_mensaje">Esta pantalla se construye en una etapa próxima.</string>
+    <string name="en_construccion_resultados">Búsqueda: «%1$s»</string>
+    <string name="en_construccion_area">Área temática: %1$s</string>
+    <string name="en_construccion_detalle">Solución número %1$d</string>
 </resources>
