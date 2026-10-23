@@ -11,7 +11,6 @@ Permite a profesionales y estudiantes buscar, filtrar y consultar soluciones con
 | Bruno Decinti | Desarrollo |
 | Alessandro Nava | Desarrollo |
 
-> Completar con los nombres completos de todos los integrantes del equipo.
 
 ## Funcionalidades implementadas
 
