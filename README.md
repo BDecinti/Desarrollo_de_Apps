@@ -8,9 +8,8 @@ Permite a profesionales y estudiantes buscar, filtrar y consultar soluciones con
 
 | Nombre | Rol |
 |--------|-----|
-| Bruno D. | Desarrollo |
-| _Nombre Apellido_ | _Completar_ |
-| _Nombre Apellido_ | _Completar_ |
+| Bruno Decinti | Desarrollo |
+| Alessandro Nava | Desarrollo |
 
 > Completar con los nombres completos de todos los integrantes del equipo.
 
